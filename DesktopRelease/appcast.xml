@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>AdvoNext</title>
+        <description>Most recent updates to AdvoNext</description>
+        <language>de</language>
+        <item>
+            <title>Version 0.5.2</title>
+            <!-- For the macOS item, it is recommended to add 'sparkle:version' and 'sparkle:shortVersionString' to the item node, rather than as part of the enclosure. -->
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+            <sparkle:releaseNotesLink>
+                https://your_domain/your_path/release_notes.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Sun, 29 Apr 2024 15:00:00 +0800</pubDate>
+            <enclosure url="0.5.2+25/lexnext-0.5.2+25-macos.dmg"
+                       sparkle:edSignature="2J34HSERcqkp6ni5D0uVYFuLjNTLsujsqF2VO8vr6RtY1NEEDuURGBhsCmpWm2wEEL8LFNqMxcpDFDdFqkM3BA=="
+                       length="24377584"
+                       type="application/octet-stream" />
+        </item>
+        <item>
+            <title>Version 0.5.1</title>
+            <!-- For the macOS item, it is recommended to add 'sparkle:version' and 'sparkle:shortVersionString' to the item node, rather than as part of the enclosure. -->
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <sparkle:releaseNotesLink>
+                https://your_domain/your_path/release_notes.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Sun, 29 Apr 2024 15:00:00 +0800</pubDate>
+            <enclosure url="0.5.1+24/lexnext-0.5.1+24-macos.dmg"
+                       sparkle:edSignature="hyrV2GGapvS8BPOqQkSspze04nPEaWjxtgUfSm1JQh2h7e3vQqgHRdJPta6eiqX/sgH9Q3yygkO3Dx6zg20DDQ==" 
+                       length="24377623"
+                       type="application/octet-stream" />
+        </item>
+        <item>
+            <title>Version 0.5.1</title>
+            <!-- For the macOS item, it is recommended to add 'sparkle:version' and 'sparkle:shortVersionString' to the item node, rather than as part of the enclosure. -->
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <sparkle:releaseNotesLink>
+                https://your_domain/your_path/release_notes.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Sun, 28 Apr 2024 18:00:00 +0800</pubDate>
+            <enclosure url="0.5.1+23/lexnext-0.5.1+23-macos.dmg"
+                       sparkle:edSignature="QJDmparUyFqIA9QmQTz2OwOo0ARvBqIVVpNhnjRGINsh/4ZPRUgb+ldirId+b2YsRBkkkdE541FvYmqjJcenBw==" 
+                       length="24373258"
+                       type="application/octet-stream" />
+        </item>
+        <item>
+            <title>Version 0.5.0</title>
+            <!-- For the macOS item, it is recommended to add 'sparkle:version' and 'sparkle:shortVersionString' to the item node, rather than as part of the enclosure. -->
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:releaseNotesLink>
+                https://your_domain/your_path/release_notes.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Sun, 28 Apr 2024 12:00:00 +0800</pubDate>
+            <enclosure url="0.5.0+22/lexnext-0.5.0+22-macos.dmg"
+                       sparkle:edSignature="34xDe9376m3RX8fIUfyt2QOd6fOAiaiU3ZGBNikrAjJ1m3oh4OnhAa7xmcLCXSCTjnlPimwQpJgvnHTsTVdOBw==" 
+                       length="24373339"
+                       type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>

@@ -4,6 +4,7 @@
         <title>AdvoNext</title>
         <description>Most recent updates to AdvoNext</description>
         <language>de</language>
+
         <item>  
             <title>Version 0.5.2</title>
             <!-- For the macOS item, it is recommended to add 'sparkle:version' and 'sparkle:shortVersionString' to the item node, rather than as part of the enclosure. -->

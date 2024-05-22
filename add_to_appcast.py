@@ -18,7 +18,7 @@ def add_item_to_xml(appcast, version_string, signature):
     "        https://advonext.github.io/DesktopRelease/release_notes.html\n" +
     "    </sparkle:releaseNotesLink>\n" +
     "    <pubDate>" + current_datetime + "</pubDate>\n" +
-    '    <enclosure url="releases/' + version_string + '/lexnext-' + version_string + '-macos.dmg"\n' +
+    '    <enclosure url="releases/' + version_string + '/advonext-' + version_string + '-macos.dmg"\n' +
     '               ' + signature + '\n' +
     '               type="application/octet-stream" />\n' +
     "</item>\n"

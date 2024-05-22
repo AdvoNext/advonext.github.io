@@ -4,18 +4,6 @@
         <title>AdvoNext</title>
         <description>Most recent updates to AdvoNext</description>
         <language>de</language>
-<item>
-    <title>Version 0.5.2</title>
-    <sparkle:version>26</sparkle:version>
-    <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
-    <sparkle:releaseNotesLink>
-        https://advonext.github.io/DesktopRelease/release_notes.html
-    </sparkle:releaseNotesLink>
-    <pubDate>Wed, 22 May 2024 13:57:01 </pubDate>
-    <enclosure url="releases/0.5.2+26/lexnext-0.5.2+26-macos.dmg"
-               sparkle:edSignature=27nqwIAx9Tqudh4oRcjFbDk41G6sy1w4CgwcUig6NtNfWS39iw+XJkbeWFIrZ6f0O/MTQ6BmOEmkNBN6PixcDw== length=24351976
-               type="application/octet-stream" />
-</item>
 
         <item>  
             <title>Version 0.5.2</title>
